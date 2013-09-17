@@ -1,0 +1,266 @@
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 69.124.118.44 at 2013-06-22 20:28:42 +0000
+Served asset /rails.png - 304 Not Modified (5ms)
+
+
+Started GET "/assets/rails.png" for 69.124.118.44 at 2013-06-22 20:28:42 +0000
+Served asset /rails.png - 304 Not Modified (2ms)
+
+
+Started GET "/rails/info/properties" for 69.124.118.44 at 2013-06-22 20:28:44 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (2.8ms)
+Completed 200 OK in 31ms (Views: 30.2ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 69.124.118.44 at 2013-06-22 20:30:43 +0000
+Served asset /rails.png - 304 Not Modified (3ms)
+
+
+Started GET "/assets/rails.png" for 69.124.118.44 at 2013-06-22 20:30:44 +0000
+Served asset /rails.png - 304 Not Modified (2ms)
+
+
+Started GET "/rails/info/properties" for 69.124.118.44 at 2013-06-22 20:30:45 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (2.7ms)
+Completed 200 OK in 28ms (Views: 27.9ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 69.124.118.44 at 2013-06-22 20:37:33 +0000
+Served asset /rails.png - 200 OK (4ms)
+
+
+Started GET "/assets/rails.png" for 69.124.118.44 at 2013-06-22 20:50:51 +0000
+Served asset /rails.png - 304 Not Modified (3ms)
+
+
+Started GET "/assets/rails.png" for 69.124.118.44 at 2013-06-22 20:51:19 +0000
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/rails/info/properties" for 69.124.118.44 at 2013-06-22 20:51:25 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (2.6ms)
+Completed 200 OK in 32ms (Views: 31.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 69.124.118.44 at 2013-06-22 20:51:26 +0000
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/rails/info/properties" for 69.124.118.44 at 2013-06-22 20:51:28 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (0.6ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 69.124.118.44 at 2013-06-22 20:58:25 +0000
+Served asset /rails.png - 304 Not Modified (4ms)
+
+
+Started GET "/rails/info/properties" for 69.124.118.44 at 2013-06-22 20:58:28 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (2.7ms)
+Completed 200 OK in 32ms (Views: 31.2ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 174.51.165.245 at 2013-09-15 06:59:54 +0000
+Served asset /rails.png - 200 OK (3ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 174.51.165.245 at 2013-09-16 05:02:06 +0000
+Served asset /rails.png - 304 Not Modified (3ms)
+
+
+Started GET "/assets/rails.png" for 174.51.165.245 at 2013-09-16 05:02:09 +0000
+Served asset /rails.png - 304 Not Modified (2ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.8331ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.6348ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=locomotive_dev collection=locomotive_content_types selector={} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields=nil (1.2262ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=locomotive_dev collection=locomotive_content_types selector={} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields=nil (2.8019ms)
+
+
+Started GET "/locomotive" for 174.51.165.245 at 2013-09-16 05:18:55 +0000
+
+
+Started GET "/locomotive" for 174.51.165.245 at 2013-09-16 05:18:55 +0000
+Processing by Locomotive::SessionsController#new as HTML
+Processing by Locomotive::SessionsController#new as HTML
+[LocomotiveCMS] [fetch site] host = 162.243.9.125 / 162.243.9.125
+[LocomotiveCMS] [fetch site] host = 162.243.9.125 / 162.243.9.125
+  MOPED: 127.0.0.1:27017 QUERY        database=locomotive_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2813ms)
+[LocomotiveCMS] [fetch site] host = 162.243.9.125 / 162.243.9.125
+  MOPED: 127.0.0.1:27017 QUERY        database=locomotive_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (1.8990ms)
+[LocomotiveCMS] [fetch site] host = 162.243.9.125 / 162.243.9.125
+  MOPED: 127.0.0.1:27017 QUERY        database=locomotive_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.8056ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=locomotive_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.8316ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=locomotive_dev command={:count=>"locomotive_accounts", :query=>{}} (0.8318ms)
+Redirected to http://162.243.9.125/locomotive/installation
+Filter chain halted as :require_site rendered or redirected
+Completed 302 Found in 161ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=locomotive_dev command={:count=>"locomotive_accounts", :query=>{}} (2.2676ms)
+Redirected to http://162.243.9.125/locomotive/installation
+Filter chain halted as :require_site rendered or redirected
+Completed 302 Found in 167ms
+
+
+Started GET "/locomotive" for 174.51.165.245 at 2013-09-16 05:18:55 +0000
+Processing by Locomotive::SessionsController#new as HTML
+[LocomotiveCMS] [fetch site] host = 162.243.9.125 / 162.243.9.125
+  MOPED: 127.0.0.1:27017 QUERY        database=locomotive_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.2382ms)
+[LocomotiveCMS] [fetch site] host = 162.243.9.125 / 162.243.9.125
+  MOPED: 127.0.0.1:27017 QUERY        database=locomotive_dev collection=locomotive_sites selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.1791ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=locomotive_dev command={:count=>"locomotive_accounts", :query=>{}} (0.2165ms)
+Redirected to http://162.243.9.125/locomotive/installation
+Filter chain halted as :require_site rendered or redirected
+Completed 302 Found in 2ms
+
+
+Started GET "/locomotive/installation" for 174.51.165.245 at 2013-09-16 05:18:55 +0000
+Processing by Locomotive::InstallationController#show as HTML
+  Parameters: {"step"=>1}
+  MOPED: 127.0.0.1:27017 QUERY        database=locomotive_dev collection=locomotive_accounts selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4246ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=locomotive_dev command={:count=>"locomotive_sites", :query=>{}} (0.2723ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p429/gems/locomotive_cms-2.2.3/app/views/locomotive/installation/step_1.html.haml within /locomotive/layouts/not_logged_in (883.9ms)
+Compiled jquery.js  (2ms)  (pid 9758)
+Compiled locomotive/not_logged_in.js  (236ms)  (pid 9758)
+Compiled locomotive/blueprint/screen.css  (0ms)  (pid 9758)
+Compiled locomotive/font-awesome.css  (304ms)  (pid 9758)
+Compiled locomotive/not_logged_in/installation.css  (1417ms)  (pid 9758)
+Compiled locomotive/not_logged_in/layout.css  (1095ms)  (pid 9758)
+Compiled locomotive/not_logged_in.css  (2848ms)  (pid 9758)
+Completed 200 OK in 4146ms (Views: 4142.8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 174.51.165.245 at 2013-09-16 05:19:00 +0000
+Served asset /jquery.js - 200 OK (5ms)
+
+
+Started GET "/assets/locomotive/blueprint/screen.css?body=1" for 174.51.165.245 at 2013-09-16 05:19:00 +0000
+
+
+Started GET "/assets/locomotive/not_logged_in/installation.css?body=1" for 174.51.165.245 at 2013-09-16 05:19:00 +0000
+Served asset /locomotive/not_logged_in/installation.css - 200 OK (3ms)
+Served asset /locomotive/blueprint/screen.css - 200 OK (9ms)
+
+
+Started GET "/assets/locomotive/font-awesome.css?body=1" for 174.51.165.245 at 2013-09-16 05:19:00 +0000
+
+
+Started GET "/assets/locomotive/not_logged_in/layout.css?body=1" for 174.51.165.245 at 2013-09-16 05:19:00 +0000
+Served asset /locomotive/not_logged_in/layout.css - 200 OK (2ms)
+Served asset /locomotive/font-awesome.css - 200 OK (11ms)
+
+
+Started GET "/assets/locomotive/not_logged_in.css?body=1" for 174.51.165.245 at 2013-09-16 05:19:00 +0000
+Served asset /locomotive/not_logged_in.css - 200 OK (6ms)
+
+
+Started GET "/assets/locomotive/not_logged_in.js?body=1" for 174.51.165.245 at 2013-09-16 05:19:00 +0000
+Served asset /locomotive/not_logged_in.js - 200 OK (3ms)
+
+
+Started GET "/assets/locomotive/background/body.png" for 174.51.165.245 at 2013-09-16 05:19:00 +0000
+Served asset /locomotive/background/body.png - 200 OK (4ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.8656ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=locomotive_dev collection=locomotive_content_types selector={} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields=nil (0.2515ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (5.1851ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=locomotive_dev collection=locomotive_content_types selector={} flags=[:slave_ok] limit=0 skip=0 batch_size=nil fields=nil (0.1831ms)
+
+
+Started GET "/locomotive/installation" for 174.51.165.245 at 2013-09-16 05:25:42 +0000
+Processing by Locomotive::InstallationController#show as HTML
+  Parameters: {"step"=>1}
+  MOPED: 127.0.0.1:27017 QUERY        database=locomotive_dev collection=locomotive_accounts selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 batch_size=nil fields=nil (0.4759ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=locomotive_dev command={:count=>"locomotive_sites", :query=>{}} (0.5612ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p429/gems/locomotive_cms-2.2.3/app/views/locomotive/installation/step_1.html.haml within /locomotive/layouts/not_logged_in (1019.2ms)
+Completed 200 OK in 1309ms (Views: 1211.2ms)
+
+
+Started GET "/assets/locomotive/not_logged_in.js?body=1" for 174.51.165.245 at 2013-09-16 05:25:44 +0000
+Served asset /locomotive/not_logged_in.js - 304 Not Modified (11ms)
+
+
+Started GET "/assets/locomotive/blueprint/screen.css?body=1" for 174.51.165.245 at 2013-09-16 05:25:44 +0000
+Served asset /locomotive/blueprint/screen.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/locomotive/font-awesome.css?body=1" for 174.51.165.245 at 2013-09-16 05:25:44 +0000
+Served asset /locomotive/font-awesome.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/locomotive/not_logged_in/installation.css?body=1" for 174.51.165.245 at 2013-09-16 05:25:44 +0000
+Served asset /locomotive/not_logged_in/installation.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/locomotive/not_logged_in/layout.css?body=1" for 174.51.165.245 at 2013-09-16 05:25:44 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 174.51.165.245 at 2013-09-16 05:25:44 +0000
+Served asset /locomotive/not_logged_in/layout.css - 304 Not Modified (10ms)
+
+
+Started GET "/assets/locomotive/not_logged_in.css?body=1" for 174.51.165.245 at 2013-09-16 05:25:44 +0000
+Served asset /locomotive/not_logged_in.css - 304 Not Modified (6ms)
+Served asset /jquery.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/locomotive/background/body.png" for 174.51.165.245 at 2013-09-16 05:25:45 +0000
+Served asset /locomotive/background/body.png - 304 Not Modified (1ms)
