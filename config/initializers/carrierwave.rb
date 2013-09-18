@@ -18,6 +18,7 @@ CarrierWave.configure do |config|
       region:                   ENV['S3_BUCKET_REGION']
     }
     config.fog_directory    = ENV['S3_BUCKET']
+    config.asset_host       = ENV['ASSET_HOST']
 
   else
     # settings for the local filesystem
